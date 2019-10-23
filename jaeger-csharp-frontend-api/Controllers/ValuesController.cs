@@ -19,7 +19,7 @@ namespace jaeger_csharp_frontend_api.Controllers
         {
             this.tracer = tracer;
             this.httpClient = httpClient;
-            this.httpClient.BaseAddress = new Uri("http://localhost:5000/api/");
+            this.httpClient.BaseAddress = new Uri("http://localhost:5004/api/");
         }
 
         // GET api/values

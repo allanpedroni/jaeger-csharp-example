@@ -3,7 +3,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:5000",
+      "applicationUrl": "http://localhost:5004",
       "sslPort": 0
     }
   },
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "jaeger.csharp.backend.api": {
+    "jaeger_middle_example": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "api/values",

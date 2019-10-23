@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jaeger-middle-example", "jaeger-middle-example.csproj", "{97BDDDD5-D721-42F3-9CD6-9A36CAF8D37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97BDDDD5-D721-42F3-9CD6-9A36CAF8D37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BDDDD5-D721-42F3-9CD6-9A36CAF8D37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BDDDD5-D721-42F3-9CD6-9A36CAF8D37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BDDDD5-D721-42F3-9CD6-9A36CAF8D37E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {727040B4-A7B1-4066-A499-E2E06528EA1B}
+	EndGlobalSection
+EndGlobal
